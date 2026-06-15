@@ -1,0 +1,754 @@
+[
+    {
+        "id": 1,
+        "section": "01 Profile Foundations & Audit",
+        "title": "Complete Profile Gap Analysis",
+        "description": "Run a comprehensive gap analysis on your overall profile.",
+        "target_gaps": [
+            "gap",
+            "audit",
+            "score",
+            "health",
+            "overview",
+            "foundations",
+            "complete"
+        ],
+        "prompt": "# MISSION\nYou are a dual-expert: A World-Class Personal Branding Strategist (specializing in LinkedIn SEO/CRO) and a Senior Front-End Developer. Your mission is to generate a comprehensive, interactive HTML LinkedIn Audit Report.\n\n# USER INPUT DATA\n- Profile URL: [YOUR URL]\n- Target Industry: [INDUSTRY]\n\n# PHASE 1: REAL-TIME RESEARCH PROTOCOL (MANDATORY)\n1. PROFILE SCRAPE: Analyze the provided URL. Identify every single section.\n2. MARKET BENCHMARKING: Research 5 REAL-WORLD high-performing professionals.\n3. KEYWORD HARVESTING: Identify the top 20 High-Intent keywords.\n\n# PHASE 2: THE \"MICRO-AUDIT\"\nAssess every section with Brutal Candor. For every section, provide: Current State, The Gap, and a 5-Persona Rewrite Matrix.\n\n# OUTPUT\nProvide the complete, raw HTML/CSS/JS code block immediately.",
+        "pro_tips": [
+            "Run this audit every 3-6 months or whenever you change career direction.",
+            "Share the full AI output with a trusted colleague for a second opinion.",
+            "Screenshot your profile before making changes so you can measure transformation."
+        ]
+    },
+    {
+        "id": 2,
+        "section": "01 Profile Foundations & Audit",
+        "title": "Profile Photo & Visual Branding Guidance",
+        "description": "Actionable guidance for optimising the visual elements of your profile.",
+        "target_gaps": [
+            "photo",
+            "banner",
+            "visual",
+            "image",
+            "cover",
+            "picture",
+            "branding"
+        ],
+        "prompt": "You are a personal branding and visual communication expert specialising in LinkedIn profiles. I need comprehensive, actionable guidance for optimising the visual elements of my LinkedIn profile.\n\nMy context:\n- Industry: [YOUR INDUSTRY]\n- Current role/seniority: [YOUR ROLE & LEVEL]\n- Career goal: [YOUR GOAL]\n- Desired perception: [DESIRED PERCEPTION]\n\nProvide detailed guidance on:\n1. PROFILE PHOTO SPECIFICATION: Exact composition, attire, background, lighting, expression.\n2. BANNER/COVER IMAGE STRATEGY: Dimensions, 3 concept ideas, colour palette.\n3. VISUAL CONSISTENCY ACROSS PROFILE: Alignment with brand narrative, colour psychology.",
+        "pro_tips": [
+            "Use Canva's free LinkedIn banner templates as a starting point.",
+            "LinkedIn recommends a 400x400px minimum for profile photos.",
+            "Test your photo with tools like PhotoFeeler before going live."
+        ]
+    },
+    {
+        "id": 3,
+        "section": "01 Profile Foundations & Audit",
+        "title": "LinkedIn SSI Score Improvement Plan",
+        "description": "Tactical improvement plan to raise your Social Selling Index.",
+        "target_gaps": [
+            "ssi",
+            "social selling",
+            "engagement",
+            "index",
+            "score",
+            "algorithm"
+        ],
+        "prompt": "You are a LinkedIn growth strategist who specialises in improving the LinkedIn Social Selling Index (SSI). My current SSI breakdown is as follows:\n- Establish Professional Brand: [SCORE /25]\n- Find the Right People: [SCORE /25]\n- Engage with Insights: [SCORE /25]\n- Build Relationships: [SCORE /25]\n- TOTAL SSI: [TOTAL /100]\n\nMy industry: [YOUR INDUSTRY]\nMy goal: [YOUR GOAL]\n\nProvide a tactical improvement plan: Score Analysis, Biggest Opportunity, Daily Actions (15-min routine), Weekly Actions (30-min routine), Content Tactics, and a 60-Day Target.",
+        "pro_tips": [
+            "SSI scores update daily — check weekly to track progress.",
+            "A score above 70 puts you in the top 25% of LinkedIn users.",
+            "Consistency beats intensity — 15 minutes daily outperforms 2 hours once a week."
+        ]
+    },
+    {
+        "id": 4,
+        "section": "02 Headline & Personal Branding",
+        "title": "Power Headline Generator",
+        "description": "Generate distinct, highly-optimized LinkedIn headlines.",
+        "target_gaps": [
+            "headline",
+            "title",
+            "hook",
+            "first impression",
+            "tagline"
+        ],
+        "prompt": "You are a LinkedIn copywriting specialist who has written headlines for Fortune 500 executives and startup founders. Your headlines consistently achieve 3-5x higher profile view rates.\n\nMy details:\n- Current headline: [YOUR CURRENT HEADLINE]\n- Job title: [YOUR JOB TITLE]\n- Top 3 skills/expertise areas: [SKILL 1, SKILL 2, SKILL 3]\n- Target audience: [AUDIENCE]\n- My unique value proposition: [WHAT MAKES YOU DIFFERENT]\n- Industry: [YOUR INDUSTRY]\n\nGenerate 10 distinct LinkedIn headline variations using proven formulas including: Role + Specialisation + Outcome, Problem-solver, Keyword-rich authority, Niche expert, and Achievement-led.\n\nFor each headline:\n- Confirm it is under 220 characters\n- Explain WHY it works and WHO it will attract",
+        "pro_tips": [
+            "LinkedIn's algorithm heavily weights your headline for search.",
+            "Avoid generic titles like 'Experienced Professional'.",
+            "Update your headline when applying to jobs to mirror the job description's language."
+        ]
+    },
+    {
+        "id": 5,
+        "section": "02 Headline & Personal Branding",
+        "title": "Personal Brand Statement Builder",
+        "description": "Build a clear, compelling personal brand narrative.",
+        "target_gaps": [
+            "brand",
+            "positioning",
+            "narrative",
+            "values",
+            "identity",
+            "message"
+        ],
+        "prompt": "You are an executive personal branding coach. I need help building a clear, compelling personal brand for LinkedIn.\n\nMy inputs:\n- What I do: [YOUR ROLE AND CORE FUNCTION]\n- Who I do it for: [PRIMARY AUDIENCE]\n- The problem I solve: [MAIN CHALLENGE]\n- My unique approach: [WHAT MAKES YOUR WAY DIFFERENT]\n- Top 3 values: [VALUES]\n- Career achievements: [KEY ACHIEVEMENTS]\n- Transformation I create: [BEFORE AND AFTER]\n\nProduce:\n1. A ONE-SENTENCE personal brand statement (15-20 words)\n2. A THREE-SENTENCE brand narrative\n3. My 3 core brand pillars\n4. My brand voice characteristics\n5. 5 'only I' statements\n6. A brand tagline under 10 words",
+        "pro_tips": [
+            "Your personal brand is not what you say about yourself — it is what others consistently experience from you.",
+            "Review your brand statement every 6 months as your career evolves."
+        ]
+    },
+    {
+        "id": 6,
+        "section": "02 Headline & Personal Branding",
+        "title": "Headline A/B Testing Framework",
+        "description": "Evaluate and test multiple headline options rigorously.",
+        "target_gaps": [
+            "a/b test",
+            "headline test",
+            "compare",
+            "conversion",
+            "testing"
+        ],
+        "prompt": "You are a data-driven LinkedIn growth expert. I have multiple LinkedIn headline options and need a rigorous framework to evaluate and test them.\n\nMy headline options:\n- Option A: [HEADLINE A]\n- Option B: [HEADLINE B]\n- Option C: [HEADLINE C]\n\nMy target outcome: [TARGET OUTCOME]\n\nAnalyse each headline across:\n1. KEYWORD ANALYSIS\n2. PSYCHOLOGICAL TRIGGERS\n3. AUDIENCE ALIGNMENT\n4. FINAL RECOMMENDATION (Rank options, suggest hybrid, and design a 30-day A/B test plan).",
+        "pro_tips": [
+            "Track your profile view count before and after each headline change.",
+            "Run each headline for at least 2 weeks before drawing conclusions."
+        ]
+    },
+    {
+        "id": 7,
+        "section": "02 Headline & Personal Branding",
+        "title": "Industry-Specific Keyword Map",
+        "description": "Comprehensive keyword strategy to fix your search visibility.",
+        "target_gaps": [
+            "seo",
+            "keywords",
+            "search",
+            "visibility",
+            "discoverability"
+        ],
+        "prompt": "You are an SEO specialist and LinkedIn algorithm expert. I need a comprehensive keyword strategy for my LinkedIn profile.\n\nMy context:\n- Current job title: [YOUR JOB TITLE]\n- Industry: [YOUR INDUSTRY]\n- Target job titles I want to be found for: [TITLE 1], [TITLE 2], [TITLE 3]\n- Geographic markets: [MARKET]\n\nDeliver a complete LinkedIn Keyword Strategy including:\n1. TIER 1 — PRIMARY KEYWORDS (5-8)\n2. TIER 2 — SECONDARY KEYWORDS (10-15)\n3. TIER 3 — LONG-TAIL & NICHE KEYWORDS (10-20)\n4. KEYWORD PLACEMENT MAP\n5. KEYWORD STUFFING WARNINGS.",
+        "pro_tips": [
+            "LinkedIn's algorithm prioritises exact-match keywords — use precise terminology.",
+            "Add keywords naturally in your About section narrative.",
+            "Revisit your keyword map every quarter as industry language evolves."
+        ]
+    },
+    {
+        "id": 8,
+        "section": "03 About / Summary Section",
+        "title": "Magnetic About Section from Scratch",
+        "description": "Write a highly engaging About section from scratch.",
+        "target_gaps": [
+            "about",
+            "summary",
+            "story",
+            "bio",
+            "narrative",
+            "boring"
+        ],
+        "prompt": "You are a master LinkedIn copywriter who specialises in the About section. I need you to write my LinkedIn About section from scratch.\n\nMy raw inputs:\n- Career journey: [SUMMARISE YOUR CAREER PATH]\n- Current role: [YOUR ROLE]\n- Problem I solve: [WHAT DRIVES YOU]\n- Top 3 career achievements with numbers: [ACHIEVEMENTS]\n- Ideal reader: [TARGET AUDIENCE]\n- 5 must-include keywords: [KEYWORD 1, 2, 3, 4, 5]\n\nWrite an About section that opens with a hook, tells a narrative arc, weaves in all 5 keywords, lists specific results, and ends with a clear CTA. Stay within 2,500 characters.",
+        "pro_tips": [
+            "The first 265 characters appear before 'see more' on mobile.",
+            "Write in first person — it is more personal and 47% more engaging.",
+            "End with a specific, easy CTA."
+        ]
+    },
+    {
+        "id": 9,
+        "section": "03 About / Summary Section",
+        "title": "About Section Rewrite & Upgrade",
+        "description": "Fundamentally elevate your existing About section.",
+        "target_gaps": [
+            "rewrite",
+            "passive",
+            "update about",
+            "polish",
+            "upgrade"
+        ],
+        "prompt": "You are a senior LinkedIn copywriter. I have an existing LinkedIn About section that needs a professional rewrite.\n\nMy current About section: [PASTE ABOUT SECTION]\nMy target audience: [TARGET AUDIENCE]\nMy career goal: [YOUR GOAL]\n\nPerform a full diagnostic (score out of 10 for hook, keywords, specificity, etc.) and produce a completely rewritten version that transforms passive language into active achievement language, integrates SEO keywords naturally, and ends with a strong CTA.",
+        "pro_tips": [
+            "Remove every instance of 'passionate' and 'results-driven' — replace with proof.",
+            "Reading your About section aloud helps identify unnatural phrasing."
+        ]
+    },
+    {
+        "id": 10,
+        "section": "03 About / Summary Section",
+        "title": "Career Transition About Section",
+        "description": "Bridge your old identity with your new career direction credibly.",
+        "target_gaps": [
+            "transition",
+            "pivot",
+            "career change",
+            "new industry",
+            "switcher"
+        ],
+        "prompt": "You are a career transition specialist. I am making a career change and need my About section to bridge my old identity with my new direction credibly.\n\nMy transition details:\n- Moving FROM: [CURRENT ROLE AND INDUSTRY]\n- Moving TO: [TARGET ROLE AND INDUSTRY]\n- Transferable skills: [LIST 5-7 SKILLS]\n- Why I am making this change: [REASON]\n- Relevant education/training: [CREDENTIALS]\n\nWrite a career transition About section that acknowledges the pivot honestly, reframes previous experience as a cross-pollination superpower, and uses vocabulary from the target industry naturally.",
+        "pro_tips": [
+            "Recruiter research shows cross-industry experience is increasingly valued.",
+            "Join LinkedIn groups in your target industry to absorb its vocabulary."
+        ]
+    },
+    {
+        "id": 11,
+        "section": "03 About / Summary Section",
+        "title": "Founder & Entrepreneur About Section",
+        "description": "Build credibility to attract clients, investors, and talent.",
+        "target_gaps": [
+            "founder",
+            "entrepreneur",
+            "startup",
+            "icp",
+            "traction",
+            "business owner"
+        ],
+        "prompt": "You are a startup branding expert. I need a Founder About section.\n\nMy founder context:\n- Company name and what it does: [COMPANY NAME]\n- Problem we solve: [PROBLEM]\n- Ideal Client Profile (ICP): [ICP]\n- Stage and traction: [STAGE]\n- 3 metrics or social proof signals: [METRICS]\n\nWrite a Founder About section that opens with a pain point hook, tells my founder origin story, articulates the transformation my company creates, and ends with 3 separate CTAs (for clients, investors, and talent).",
+        "pro_tips": [
+            "Founders with strong personal brands generate 3x more inbound leads.",
+            "Update your metrics quarterly — traction signals are powerful trust builders."
+        ]
+    },
+    {
+        "id": 12,
+        "section": "04 Experience & Accomplishments",
+        "title": "Achievement-Focused Role Description Writer",
+        "description": "Transform standard job descriptions into metric-driven achievements.",
+        "target_gaps": [
+            "experience",
+            "bullets",
+            "job description",
+            "roles",
+            "history",
+            "outcomes"
+        ],
+        "prompt": "You are a professional resume writer. Recruiters spend an average of 6 seconds on a LinkedIn experience section — every bullet must earn its place.\n\nMy role details:\n- Job title: [YOUR TITLE]\n- Company: [COMPANY]\n- Key responsibilities: [LIST]\n- Results and achievements: [OUTCOMES]\n\nProduce an experience section including: A 1-sentence company description, a 2-3 sentence role summary, and 6-8 achievement bullets using the Context → Action → Result formula.",
+        "pro_tips": [
+            "If you have no metrics, estimate ranges: 'reduced processing time by approximately 30-40%'.",
+            "Use strong action verbs like spearheaded, engineered, orchestrated."
+        ]
+    },
+    {
+        "id": 13,
+        "section": "04 Experience & Accomplishments",
+        "title": "Quantify Your Achievements Prompt",
+        "description": "Find the hidden metrics in your vague responsibilities.",
+        "target_gaps": [
+            "metrics",
+            "numbers",
+            "data",
+            "vague",
+            "quantify",
+            "results",
+            "impact"
+        ],
+        "prompt": "You are a data storytelling expert. I have a list of responsibilities that lack specific numbers. Help me transform them into quantified statements.\n\nVague statements: \n1. [ACHIEVEMENT 1]\n2. [ACHIEVEMENT 2]\n\nIdentify the hidden metric, generate smart questions to uncover the real number, and provide rewrite options (Fully quantified, Estimated range, and Qualitative but specific).",
+        "pro_tips": [
+            "Old performance reviews and email threads are goldmines for forgotten metrics.",
+            "When in doubt, quantify the SCALE of what you did even if you cannot measure the outcome."
+        ]
+    },
+    {
+        "id": 14,
+        "section": "04 Experience & Accomplishments",
+        "title": "Leadership & Promotion Story Narrative",
+        "description": "Demonstrate clear career progression and leadership development.",
+        "target_gaps": [
+            "promotion",
+            "leadership",
+            "progression",
+            "trajectory",
+            "manager",
+            "growth"
+        ],
+        "prompt": "You are a career narrative strategist. I need help constructing a cohesive leadership story across my experience section.\n\nMy career progression:\n- Role 1: [TITLE] - [RESPONSIBILITIES]\n- Role 2: [TITLE] - [RESPONSIBILITIES]\n- Promotions/milestones: [LIST PROMOTIONS]\n\nWrite a 150-word Leadership Arc Narrative, progression framing showing WHY I was promoted, responsibility escalation language, and future-signalling language.",
+        "pro_tips": [
+            "Recruiters are pattern-matching for consistent upward trajectory.",
+            "Use the phrase 'promoted to' explicitly — do not make recruiters infer it."
+        ]
+    },
+    {
+        "id": 15,
+        "section": "04 Experience & Accomplishments",
+        "title": "Freelance & Consulting Experience Framer",
+        "description": "Present varied, non-linear work history as a coherent narrative.",
+        "target_gaps": [
+            "freelance",
+            "consulting",
+            "independent",
+            "portfolio",
+            "projects",
+            "self-employed"
+        ],
+        "prompt": "You are a LinkedIn profile specialist. I am an independent consultant.\n\nMy context:\n- Type of work: [YOUR WORK]\n- Range of clients: [CLIENT TYPES]\n- Key outcomes: [OUTCOMES]\n- Signature service: [YOUR SERVICE]\n\nDesign an experience section including an 'Umbrella Entity Entry' (so I don't look like a job hopper), 3-4 anonymised project spotlights, credibility signals, and a narrative bridge.",
+        "pro_tips": [
+            "Use a company name for your consulting practice — even 'Your Name Consulting' looks more credible.",
+            "Retainer clients and repeat engagements are powerful evidence of quality."
+        ]
+    },
+    {
+        "id": 16,
+        "section": "04 Experience & Accomplishments",
+        "title": "Early Career & Internship Experience Enhancer",
+        "description": "Present limited work history with maximum impact.",
+        "target_gaps": [
+            "graduate",
+            "intern",
+            "early career",
+            "junior",
+            "lack of experience",
+            "student"
+        ],
+        "prompt": "You are a LinkedIn coach for early career professionals. \n\nMy context:\n- Degree: [DEGREE]\n- Internships: [LIST INTERNSHIPS]\n- Part-time jobs: [LIST JOBS]\n- Academic projects: [PROJECTS]\n- Extracurricular: [ACTIVITIES]\n\nHelp me reframe this experience to show commercial awareness, map skills to my target role, amplify moments of proactivity, and frame my academic projects as professional consulting engagements.",
+        "pro_tips": [
+            "Your university project is real work experience — frame it that way.",
+            "Part-time retail work demonstrates communication and resilience."
+        ]
+    },
+    {
+        "id": 17,
+        "section": "05 Skills, Endorsements & Keywords",
+        "title": "Strategic Skills Section Architect",
+        "description": "Optimize your skills section for maximum recruiter search visibility.",
+        "target_gaps": [
+            "skills",
+            "endorsements",
+            "missing skills",
+            "hard skills",
+            "soft skills"
+        ],
+        "prompt": "You are a LinkedIn search algorithm specialist. The Skills section is a critical ranking factor.\n\nMy context:\n- Target role: [ROLE]\n- Industry: [INDUSTRY]\n- Current skills listed: [LIST SKILLS]\n\nConduct a Skills Audit, provide a Prioritisation Framework (Hard, Soft, Industry), recommend the Top 3 Pinned Skills, and provide an Endorsement Request script.",
+        "pro_tips": [
+            "LinkedIn allows 50 skills maximum — treat every slot as valuable search real estate.",
+            "Endorse others' skills strategically — many will reciprocate."
+        ]
+    },
+    {
+        "id": 18,
+        "section": "05 Skills, Endorsements & Keywords",
+        "title": "Skills Gap Analysis for Target Role",
+        "description": "Scientifically identify gaps between you and your target role.",
+        "target_gaps": [
+            "gap analysis",
+            "missing requirements",
+            "upskill",
+            "target role",
+            "jd"
+        ],
+        "prompt": "You are a talent analytics expert. \n\nMy current skills: [LIST SKILLS]\nTarget role job descriptions: [PASTE 3-5 JDs]\n\nPerform a comprehensive skills gap analysis including a Skills Frequency Map, a Gap Matrix (Skills I have, partially have, lack entirely), and a Prioritised Development Plan for closing my top 5 skill gaps.",
+        "pro_tips": [
+            "Job descriptions are the most honest signal of what the market values right now.",
+            "If the same skill appears in all JDs, it is a hard requirement."
+        ]
+    },
+    {
+        "id": 19,
+        "section": "05 Skills, Endorsements & Keywords",
+        "title": "Endorsement Request Message Crafting",
+        "description": "Request skill endorsements naturally without being awkward.",
+        "target_gaps": [
+            "ask endorsements",
+            "request",
+            "social proof",
+            "colleagues",
+            "validate"
+        ],
+        "prompt": "You are a professional communication coach. I need to request skill endorsements naturally.\n\nContext:\n- Person 1: [NAME, RELATIONSHIP, CONTEXT, SKILL TO ENDORSE]\n- Person 2: [NAME, RELATIONSHIP, CONTEXT, SKILL TO ENDORSE]\n\nWrite a LinkedIn message under 300 characters, an extended message, a reciprocal offer to endorse them first, and a polite follow-up message.",
+        "pro_tips": [
+            "Always endorse someone's skills first before asking them to endorse yours.",
+            "Former managers endorsing you for leadership skills carry 5x more weight."
+        ]
+    },
+    {
+        "id": 20,
+        "section": "05 Skills, Endorsements & Keywords",
+        "title": "LinkedIn Search Ranking Optimiser",
+        "description": "Improve your profile's ranking for specific search terms.",
+        "target_gaps": [
+            "ranking",
+            "algorithm",
+            "seo",
+            "visibility",
+            "search",
+            "index"
+        ],
+        "prompt": "You are a LinkedIn SEO expert. I want to improve my profile's ranking.\n\nMy goals:\n- Search terms: [TERMS]\n- Target searcher: [AUDIENCE]\n- Geography: [LOCATION]\n\nProvide a Search Optimisation Guide explaining keyword placement hierarchy, field-by-field optimisation checklists, activity signals that boost ranking, and 10 quick wins I can implement in 48 hours.",
+        "pro_tips": [
+            "LinkedIn's algorithm uses first-degree connections as a ranking booster.",
+            "Your profile must be set to 'Public' for maximum search visibility."
+        ]
+    },
+    {
+        "id": 21,
+        "section": "06 Recommendations",
+        "title": "Recommendation Request Strategy",
+        "description": "Gather high-quality social proof that third-party voices cannot fake.",
+        "target_gaps": [
+            "recommendations",
+            "social proof",
+            "testimonials",
+            "credibility",
+            "references"
+        ],
+        "prompt": "You are a LinkedIn personal branding expert. Recommendations are the most trusted social proof. I need an acquisition strategy.\n\nMy strongest relationships: [LIST NAMES AND ROLES]\n\nProvide a recommendation portfolio strategy (mix of upward, peer, downward), a prioritised ask list, personalised request messages, and a one-page briefing template I can send recommenders so they know exactly what to say.",
+        "pro_tips": [
+            "Provide your recommenders with a bullet-point brief of what to mention.",
+            "Recommendations from clients carry extraordinary weight for consultants."
+        ]
+    },
+    {
+        "id": 22,
+        "section": "06 Recommendations",
+        "title": "Ghost-Write a Recommendation for Someone Else",
+        "description": "Produce a genuinely powerful recommendation for a colleague.",
+        "target_gaps": [
+            "write recommendation",
+            "give recommendation",
+            "praise",
+            "endorse colleague"
+        ],
+        "prompt": "You are a professional business writer. I want to write a powerful recommendation for someone in my network.\n\nPerson I am recommending:\n- Name: [NAME]\n- Role: [ROLE]\n- Context: [HOW WE WORKED TOGETHER]\n- Top 3 strengths: [STRENGTHS]\n- Outcome achieved: [RESULTS]\n\nWrite 3 versions: Concise Impact (150 words), Story-Driven (250 words), and Character-Led (200 words). Ensure they open with a specific claim, not 'I had the pleasure of...'",
+        "pro_tips": [
+            "The best recommendations open with a specific claim, not generic pleasantries.",
+            "One vivid, specific story is worth more than five generic compliments."
+        ]
+    },
+    {
+        "id": 23,
+        "section": "06 Recommendations",
+        "title": "Recommendation Response & Gratitude Message",
+        "description": "Respond to recommendations in a way that deepens the relationship.",
+        "target_gaps": [
+            "thank you",
+            "gratitude",
+            "respond",
+            "relationship",
+            "reply"
+        ],
+        "prompt": "You are a relationship management expert. I received a LinkedIn recommendation and want to express gratitude while keeping the door open.\n\nThe recommendation: [PASTE TEXT]\nRecommender: [NAME & RELATIONSHIP]\n\nWrite a short LinkedIn thank-you message, a longer personal InMail message offering reciprocal value, and a 12-month relationship maintenance plan.",
+        "pro_tips": [
+            "Quoting a specific phrase from the recommendation in your reply shows you read it.",
+            "Offer a reciprocal recommendation proactively."
+        ]
+    },
+    {
+        "id": 24,
+        "section": "07 Featured Section & Media",
+        "title": "Featured Section Content Strategy",
+        "description": "Turn your featured section into a visual portfolio.",
+        "target_gaps": [
+            "featured",
+            "portfolio",
+            "media",
+            "visuals",
+            "links",
+            "showcase"
+        ],
+        "prompt": "You are a personal branding expert. The Featured section is prime digital real estate.\n\nMy context:\n- Content I could feature: [LIST ARTICLES, PROJECTS, MEDIA]\n- Career goal: [YOUR GOAL]\n\nDesign my Featured Section Strategy: Rank the top 5 items by impact, write a Featured item headline and description for each, and explain the optimal ordering logic.",
+        "pro_tips": [
+            "A custom banner image for a featured link gets significantly more clicks.",
+            "Video content gets 5x more profile dwell time than text."
+        ]
+    },
+    {
+        "id": 25,
+        "section": "08 Content Strategy & Posting",
+        "title": "30-Day LinkedIn Content Calendar",
+        "description": "A complete, ready-to-execute 30-day content calendar.",
+        "target_gaps": [
+            "content",
+            "posting",
+            "calendar",
+            "schedule",
+            "consistency",
+            "algorithm"
+        ],
+        "prompt": "You are a LinkedIn content strategy expert. I need a 30-day content calendar that builds my authority.\n\nMy context:\n- Expertise: [TOP 3 EXPERTISE AREAS]\n- Target audience: [AUDIENCE]\n- Time available: [TIME LIMIT]\n\nCreate a 30-day calendar detailing: Day, Post Format, Theme, Full Post Hook (first line), 3-bullet outline, and Call to Action. Also provide 5 evergreen post templates.",
+        "pro_tips": [
+            "Posting 3-4 times per week consistently beats posting 10 times one week and nothing the next.",
+            "Posts that ask genuine questions get 2-3x more comments."
+        ]
+    },
+    {
+        "id": 26,
+        "section": "08 Content Strategy & Posting",
+        "title": "Viral Post Anatomy & Hook Generator",
+        "description": "Craft posts designed for maximum reach and engagement.",
+        "target_gaps": [
+            "viral",
+            "hook",
+            "engagement",
+            "reach",
+            "post structure",
+            "views"
+        ],
+        "prompt": "You are a LinkedIn virality expert. I have a topic I want to write about.\n\nMy topic: [TOPIC]\nMy angle: [YOUR UNIQUE TAKE]\nTarget audience: [AUDIENCE]\n\nProvide 10 hook variations using proven formulas (Controversial, Story, Curiosity Gap, Failure/Mistake). Then, provide the FULL POST STRUCTURE for the top 3 hooks, including bridge, body, insight, and CTA.",
+        "pro_tips": [
+            "3-5 short sentences per paragraph. White space = readability = engagement.",
+            "Hashtags go at the end. Never in the body of the post."
+        ]
+    },
+    {
+        "id": 27,
+        "section": "08 Content Strategy & Posting",
+        "title": "Thought Leadership Article Blueprint",
+        "description": "Publish a long-form article that positions you as an expert.",
+        "target_gaps": [
+            "article",
+            "long-form",
+            "thought leadership",
+            "blog",
+            "expertise"
+        ],
+        "prompt": "You are a thought leadership content strategist. I want to publish a long-form LinkedIn Article.\n\nMy topic: [TOPIC]\nMy unique argument: [YOUR PERSPECTIVE]\nTarget audience: [READER]\n\nProduce a complete article blueprint including: 5 SEO-optimised headline options, a full article structure/outline, a fully written 150-word opening hook, and 5 suggested data points to research.",
+        "pro_tips": [
+            "Articles with a clear, specific argument generate 4x more engagement.",
+            "LinkedIn Articles rank in Google search — optimise your headline for SEO."
+        ]
+    },
+    {
+        "id": 28,
+        "section": "09 Network Growth & Outreach",
+        "title": "Strategic Connection Request Templates",
+        "description": "High-conversion outreach templates for networking.",
+        "target_gaps": [
+            "network",
+            "connections",
+            "outreach",
+            "messages",
+            "networking",
+            "request"
+        ],
+        "prompt": "You are a networking expert. A LinkedIn connection request has only 300 characters.\n\nMy context:\n- Name/Role: [YOUR NAME AND ROLE]\n- Goal: [YOUR GOAL]\n\nWrite personalised connection request templates (under 300 chars) for: a recruiter, a potential client, after an event, a thought leader, and an alumni. Include a follow-up message to send once connected.",
+        "pro_tips": [
+            "Always personalise the first line of a connection request.",
+            "Never pitch in the connection request message — it destroys trust."
+        ]
+    },
+    {
+        "id": 29,
+        "section": "09 Network Growth & Outreach",
+        "title": "LinkedIn DM Outreach Sequence Builder",
+        "description": "A multi-touch outreach sequence that builds genuine rapport.",
+        "target_gaps": [
+            "cold dm",
+            "outreach",
+            "sequence",
+            "pitch",
+            "message",
+            "inmail"
+        ],
+        "prompt": "You are a LinkedIn outreach specialist. Cold DMs fail because they ask too much too soon.\n\nMy context:\n- Goal: [e.g. request informational interview / pitch services]\n- Target persona: [DESCRIBE PERSON]\n- What I offer them: [VALUE ADD]\n\nDesign a 5-touch outreach sequence (Connection Request, Welcome Message, Value-Add Message, Soft Ask, Final Follow-up) spacing them out naturally over 21 days.",
+        "pro_tips": [
+            "The rule: give twice before you ask once.",
+            "Reference specific content they have created — it shows you did your homework."
+        ]
+    },
+    {
+        "id": 30,
+        "section": "09 Network Growth & Outreach",
+        "title": "LinkedIn Group Strategy",
+        "description": "Use Groups to grow your network and establish authority.",
+        "target_gaps": [
+            "groups",
+            "community",
+            "niche",
+            "discussion",
+            "forums"
+        ],
+        "prompt": "You are a community strategy expert. I want a complete strategy for using LinkedIn Groups.\n\nMy context:\n- Industry/Niche: [YOUR INDUSTRY]\n- Expertise: [YOUR KNOWLEDGE]\n\nProvide a Group Discovery Framework, recommend an optimal portfolio of groups, detail a contribution strategy (70/20/10 rule), and give me a 30-minute weekly group routine.",
+        "pro_tips": [
+            "Quality contributions in 3 focused groups beats passive membership in 30.",
+            "Group admins are powerful relationships — engage directly with them."
+        ]
+    },
+    {
+        "id": 31,
+        "section": "09 Network Growth & Outreach",
+        "title": "Alumni Network Activation Plan",
+        "description": "Reactivate and leverage your trusted alumni networks.",
+        "target_gaps": [
+            "alumni",
+            "university",
+            "college",
+            "reconnect",
+            "school"
+        ],
+        "prompt": "You are a professional networking strategist. \n\nMy alumni assets:\n- Universities: [LIST]\n- Previous Employers: [LIST]\n- Objective: [e.g. find a new job, generate leads]\n\nProvide a complete Alumni Network Activation Plan: Search strategy, outreach templates (for people you haven't met vs. former colleagues), coffee chat protocol, and a 90-day calendar.",
+        "pro_tips": [
+            "Alumni share an immediate trust bond — response rates are 5x higher.",
+            "Offer to be a resource FIRST. Generating goodwill beats asking for advice."
+        ]
+    },
+    {
+        "id": 32,
+        "section": "10 Job Search & Applications",
+        "title": "Job Application Profile Customisation Guide",
+        "description": "Customise your profile to mirror a specific job description.",
+        "target_gaps": [
+            "apply",
+            "ats",
+            "customize",
+            "mirror jd",
+            "job application",
+            "recruiter"
+        ],
+        "prompt": "You are a recruitment specialist with deep knowledge of ATS. I want to customise my profile for a specific job application.\n\nTarget Job: [JOB TITLE AND COMPANY]\nJob Description: [PASTE JD]\nMy current summary: [PASTE SUMMARY]\n\nProvide a Profile Customisation Plan: Extract the 15 most important keywords, rewrite my headline for this role, rewrite my About section hook, and prioritise my experience bullets to match the JD's exact terminology.",
+        "pro_tips": [
+            "Mirror the JD's exact terminology — 'stakeholder management' and 'engagement' are different keywords.",
+            "Comment meaningfully on recent company posts before applying."
+        ]
+    },
+    {
+        "id": 33,
+        "section": "10 Job Search & Applications",
+        "title": "Open to Work Strategy & Messaging",
+        "description": "Signal job availability without alerting your current employer.",
+        "target_gaps": [
+            "open to work",
+            "job seeker",
+            "confidential search",
+            "alert",
+            "looking"
+        ],
+        "prompt": "You are a job search strategist. I need an Open to Work strategy.\n\nMy situation:\n- Status: [Employed/Unemployed]\n- Target roles: [ROLES]\n- Confidentiality need: [HIGH/LOW]\n\nProvide advice on Open to Work vs Recruiters Only settings, write 3 versions of my headline (confidential vs visible), list 10 Recruiter Magnet actions, and provide Inbound Recruiter Message Filters.",
+        "pro_tips": [
+            "The 'Open to Work' green frame reduces recruiter friction significantly.",
+            "Updating your profile triggers LinkedIn to resurface you in recruiter searches."
+        ]
+    },
+    {
+        "id": 34,
+        "section": "10 Job Search & Applications",
+        "title": "Informational Interview Outreach Script",
+        "description": "Generate insider knowledge, referrals, and opportunities.",
+        "target_gaps": [
+            "informational interview",
+            "coffee chat",
+            "learn",
+            "questions",
+            "advice"
+        ],
+        "prompt": "You are a career development coach. I want to reach out for informational interviews.\n\nMy context:\n- Goal: [YOUR GOAL]\n- Target person: [NAME/ROLE]\n- Common ground: [SHARED CONNECTION/ALUMNI]\n\nCreate an Informational Interview System: Outreach message (under 150 words), follow-up script, a 15-question interview set, the 'Golden closing question', and a post-conversation follow-up email.",
+        "pro_tips": [
+            "Never ask for a job in an informational interview.",
+            "Prepare specific, intelligent questions that show deep research."
+        ]
+    },
+    {
+        "id": 35,
+        "section": "10 Job Search & Applications",
+        "title": "LinkedIn Profile for Executive & C-Suite Roles",
+        "description": "Executive positioning strategy for C-suite and board roles.",
+        "target_gaps": [
+            "c-suite",
+            "executive",
+            "board",
+            "director",
+            "ned",
+            "leadership scale"
+        ],
+        "prompt": "You are an executive personal branding expert. Executive profiles require a fundamentally different strategy.\n\nMy executive context:\n- Target role: [CFO / NED / MD]\n- P&L scope: [BUDGET]\n- Team scale: [HEADCOUNT]\n- Transformations led: [WINS]\n\nDesign an executive strategy: A board-ready positioning statement, 5 gravitas-heavy headlines, an 800-word enterprise-impact About section, and 7 common mistakes executives must never make on LinkedIn.",
+        "pro_tips": [
+            "Executive profiles should feel like a Wall Street Journal profile, not a CV.",
+            "Headhunters filter by scope keywords: 'P&L ownership', 'enterprise-wide'."
+        ]
+    },
+    {
+        "id": 36,
+        "section": "11 Analytics & Continuous Optimisation",
+        "title": "LinkedIn Analytics Interpretation & Action Plan",
+        "description": "Measure what matters and iterate your way to the top 1%.",
+        "target_gaps": [
+            "analytics",
+            "data",
+            "profile views",
+            "metrics",
+            "stats",
+            "performance"
+        ],
+        "prompt": "You are a LinkedIn data analyst. I have pulled my analytics data.\n\nMy analytics:\n- Views/Impressions/Followers: [NUMBERS]\n- Top viewing companies/titles: [LIST]\n- Best/Worst post: [DESCRIBE]\n\nAnalyse my data and provide: A Health Assessment, Signal Interpretation (what is the audience telling me?), Content Diagnosis, a Prioritised 30-day Action Plan, and a KPI Dashboard to track going forward.",
+        "pro_tips": [
+            "Who is viewing your profile is more valuable data than how many.",
+            "Profile view spikes often correlate with specific posts."
+        ]
+    },
+    {
+        "id": 37,
+        "section": "11 Analytics & Continuous Optimisation",
+        "title": "Quarterly LinkedIn Profile Review Protocol",
+        "description": "Ensure your profile never becomes outdated or misaligned.",
+        "target_gaps": [
+            "review",
+            "quarterly",
+            "update",
+            "refresh",
+            "maintenance",
+            "audit"
+        ],
+        "prompt": "You are a profile optimisation coach. I need a quarterly review protocol.\n\nMy Q-Review data:\n- Significant achievements: [LIST]\n- New skills/certs: [LIST]\n- Shift in goals: [ANY SHIFTS]\n\nConduct a Quarterly Review: Tell me exactly where to integrate my new achievements, check if my headline needs a refresh, update my skills/featured sections, and provide my Top 3 priorities for the next quarter.",
+        "pro_tips": [
+            "Set a calendar reminder for the first week of each quarter for your review.",
+            "Screenshot your profile at the beginning of each quarter — visual comparison is motivating."
+        ]
+    },
+    {
+        "id": 38,
+        "section": "11 Analytics & Continuous Optimisation",
+        "title": "LinkedIn Premium Features ROI Evaluator",
+        "description": "Make a data-driven decision about LinkedIn Premium.",
+        "target_gaps": [
+            "premium",
+            "subscription",
+            "sales navigator",
+            "upgrade",
+            "worth it"
+        ],
+        "prompt": "You are a career ROI analyst. I want to decide if LinkedIn Premium is worth it.\n\nMy context:\n- Current tier: [FREE / PREMIUM]\n- Reason I use LinkedIn: [e.g. Job Search / Sales]\n- Budget: [BUDGET]\n\nProvide an ROI Analysis: Feature value mapping for my specific use case, a tier comparison (Career vs Business vs Sales Navigator), a checklist of free alternatives, and a Break-Even Analysis to justify the cost.",
+        "pro_tips": [
+            "InMail credits have the highest ROI if you are using them for targeted, personalised outreach.",
+            "LinkedIn Learning alone can justify the cost if you are actively upskilling."
+        ]
+    },
+    {
+        "id": 39,
+        "section": "11 Analytics & Continuous Optimisation",
+        "title": "LinkedIn for Business Development & Lead Gen",
+        "description": "Turn your profile into a lead generation engine.",
+        "target_gaps": [
+            "leads",
+            "b2b",
+            "sales",
+            "pipeline",
+            "business development",
+            "prospecting"
+        ],
+        "prompt": "You are a B2B sales strategist. I want to turn my profile into a lead gen engine.\n\nMy context:\n- What I sell: [PRODUCT/SERVICE]\n- Ideal Client Profile: [ICP]\n- Monthly goal: [TARGET]\n\nBuild a Lead Gen System: ICP Targeting Strategy, Profile Conversion Optimisation (make it a landing page), Content-led Lead Gen frameworks, a 7-touch Outbound Sequence, and a 45-minute daily lead gen routine.",
+        "pro_tips": [
+            "Buyers research sellers on LinkedIn before any call — your profile is a sales asset.",
+            "The fastest path to a sales conversation is content that creates a 'that is my problem' moment."
+        ]
+    },
+    {
+        "id": 40,
+        "section": "11 Analytics & Continuous Optimisation",
+        "title": "LinkedIn Profile for Speaking & Media Opportunities",
+        "description": "Attract conference invitations, podcasts, and media quotes.",
+        "target_gaps": [
+            "speaker",
+            "media",
+            "podcast",
+            "PR",
+            "keynote",
+            "press",
+            "events"
+        ],
+        "prompt": "You are a speaker bureau consultant. I want to attract speaking and media opportunities.\n\nMy context:\n- Area of expertise: [NICHE TOPIC]\n- Speaking/Media experience: [EXPERIENCE]\n- Signature talks: [TALK TITLES]\n- Target venues: [e.g. HR conferences, Podcasts]\n\nDesign a Speaker Profile Strategy: 5 speaker-positioned headlines, a 300-word speaking bio About section, Featured section optimisation for a speaker reel, and a pitch template to send directly to event organisers.",
+        "pro_tips": [
+            "A 2-3 minute speaker reel video in your Featured section is the single most powerful tool for booking engagements.",
+            "Activate Creator Mode to display your follower count prominently — social proof matters to organisers."
+        ]
+    }
+]
