@@ -1,0 +1,27 @@
+/* Hide Streamlit default header and footer */
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+header {visibility: hidden;}
+
+/* Remove top padding */
+.block-container {
+    padding-top: 2rem !important;
+    padding-bottom: 2rem !important;
+}
+
+/* Modern Primary Button Styling */
+.stButton > button {
+    background-color: #1A73E8;
+    color: white;
+    border-radius: 6px;
+    border: none;
+    padding: 0.5rem 1rem;
+    font-weight: 600;
+    transition: all 0.2s ease-in-out;
+}
+
+.stButton > button:hover {
+    background-color: #1557b0;
+    border-color: #1557b0;
+    color: white;
+}
