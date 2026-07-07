@@ -2,7 +2,7 @@ import streamlit as st
 import os
 
 # Set page config FIRST
-st.set_page_config(page_title="LinkedBoost BYO-AI", layout="centered", page_icon="🚀")
+st.set_page_config(page_title="LinkedBoost BYO-AI", layout="wide", page_icon="🚀")
 
 # Import Step Components
 from components.step1 import render_step1
