@@ -10,7 +10,7 @@ You are a dual-expert: a World-Class Personal Branding Strategist and an Advance
 # PERSONALIZATION CONTEXT
 - Primary Goal: {objective}
 - Target Audience: {audience}
-- Self-Identified Weakness: {weakness} -> CRITICAL PRIORITY: Focus the audit heavily on resolving this specific pain point. Ensure the "TOP_3_CRITICAL_GAPS" explicitly addresses this weakness using matching terminology.
+- Self-Identified Weakness: {weakness} -> CRITICAL PRIORITY: Focus the audit heavily on resolving this specific pain point. Ensure the "ALL_CRITICAL_GAPS" explicitly addresses this weakness alongside any other gaps you find.
 
 # PHASE 1: REAL-TIME RESEARCH PROTOCOL (MANDATORY)
 1. PROFILE ANALYSIS: Visit/Analyze the URL above. Catalog every section present.
@@ -25,7 +25,7 @@ For EACH section provide: Current State & Core Gap, Priority Score, and The Idea
 Do not generate HTML or CSS. Output ONLY a raw Markdown code block exactly like this:
 ### 1. OVERVIEW DATA
 - PROFILE_HEALTH_SCORE: [Integer 0-100]
-- TOP_3_CRITICAL_GAPS: [Short text list]
+- ALL_CRITICAL_GAPS: [Short text list of EVERY major gap found, do not limit to 3]
 
 ### 2. MICRO-AUDIT MATRIX
 #### [HEADLINE]
