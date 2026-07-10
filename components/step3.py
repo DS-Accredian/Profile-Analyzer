@@ -91,7 +91,7 @@ def render_step3():
     with col2:
         st.link_button("Go to ChatGPT", "https://chatgpt.com", use_container_width=True)
     with col3:
-        st.link_button("Go to Groq", "https://groq.com", use_container_width=True)
+        st.link_button("Go to Gemini", "https://gemini.com", use_container_width=True)
         
     st.write("---")
     
