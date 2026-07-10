@@ -53,7 +53,7 @@ def render_step3():
     # 1. Clear Instructions
     st.write("We have engineered a highly-advanced prompt based on your exact career stage and weaknesses.")
     st.write("1. Click the **Copy Prompt** button below.")
-    st.write("2. Open your preferred AI (Claude 3.5 Sonnet, ChatGPT-4o, etc.).")
+    st.write("2. Open your preferred AI (Claude , ChatGPT, Gemini).")
     st.write("3. Paste the prompt, wait for the generation, and copy the resulting report.")
     
     # 2. Build the prompt from session state variables
